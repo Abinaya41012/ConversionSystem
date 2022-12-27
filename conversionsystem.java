@@ -119,7 +119,7 @@ public class conversionsystem {
         }
 
         public static void main(String[] args) {
-                Measurement_conversion obj=new Measurement_conversion();
+                measurementconversion obj=new measurementconversion();
                 obj.cal();
                 
                 }
